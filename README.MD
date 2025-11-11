@@ -7,6 +7,7 @@ Sou da área de Infraestrutura e Cloud, agora um entusiasta do DevOps.
 - Bancos: SQL Server, Oracle, PostgreSQL e Firebird
 - Clouds Públicas: AWS, Azure, OCI, GCP e OceanDigital
 - Virtualização: VmWare e Proxmox
+- Docker e Kubernets
 - AD
 - DNS
 - Firewall
@@ -17,6 +18,5 @@ Sou da área de Infraestrutura e Cloud, agora um entusiasta do DevOps.
 - Python
 - Java
 - Clipper
-- Scrum
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-carlos-isensee-3a285423/)
